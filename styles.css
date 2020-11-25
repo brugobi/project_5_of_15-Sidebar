@@ -250,6 +250,7 @@ Sidebar
   /* here is the code that hide the sidebar */
   transform: translate(-100%);
 }
+/* here is the code that hide the sidebar */
 .show-sidebar {
   transform: translate(0);
 }
