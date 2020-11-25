@@ -247,6 +247,7 @@ Sidebar
   row-gap: 1rem;
   box-shadow: var(--clr-red-dark);
   transition: var(--transition);
+  /* here is the code that hide the sidebar */
   transform: translate(-100%);
 }
 .show-sidebar {
