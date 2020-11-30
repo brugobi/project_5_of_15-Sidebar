@@ -1,6 +1,6 @@
 # Sidebar
 
-> This is the project 4 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also avaible on [you tube](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF). **Sidebar** is the implementation of the toggle button option that when clicked appears and disappears the sidebar.
+> This is the project 5 of 15 from the course created by [John Smilga](https://www.johnsmilga.com) and also avaible on [you tube](https://www.youtube.com/watch?v=c5SIG7Ie0dM&list=PLnHJACx3NwAey1IiiYmxFbXxieMYqnBKF). **Sidebar** is the implementation of the toggle button option that when clicked appears and disappears the sidebar.
 
 ![home_page](sidebar.png)
 ![home_page](sidebarhidded.png)
